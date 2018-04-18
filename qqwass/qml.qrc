@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Field.qml</file>
+        <file>funcs.js</file>
+        <file>Board.qml</file>
+        <file>SButtoms.qml</file>
+        <file>History.qml</file>
+        <file>funcs2.js</file>
+    </qresource>
+</RCC>
